@@ -61,9 +61,5 @@ go run main.go
 - Real-world scenarios and use cases
 - Follow Go best practices and idioms
 
-## 📬 Contact
-Your Name - Your Email
-Project Link: [GitHub Repository]
-
 ---
 **Happy Learning! 🎉**
